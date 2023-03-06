@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:642B73,100:C6426E&height=250&section=header&text=안녕하세요,%20박수화입니다!%20🌕&fontSize=35&fontColor=F3F781&fontAlignY=40&animation=fadeIn&desc=Hello,%20I'm%20SUHWA!&descAlignY=56&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&&color=0:642B73,100:C6426E&height=250&section=header&text=안녕하세요,%20박수화입니다!%20🌠&fontSize=35&fontColor=F3F781&fontAlignY=40&animation=fadeIn&desc=Hello,%20I'm%20SUHWA!&descAlignY=56&descAlign=50" />
 <div>	
   <h3>💻 GitHub Stats</h3>
   
