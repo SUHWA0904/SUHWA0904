@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>	
   <h3>💻 GitHub Stats</h3>
   
-  ![SUHWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHWA0904&show_icons=true&theme=transparent&title_color=642B73&text_color=642B73&bg_color=30,accbee,C6426E&show_icons=false)  
+  ![SUHWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHWA0904&show_icons=true&theme=transparent&title_color=F3F781&text_color=642B73&bg_color=30,accbee,C6426E&show_icons=false)  
 </div>
 <div>
   <h3>📂 Portfolio (Click me!)</h3>
@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 <div>	
   <h3>✏️ Solved</h3>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erica0126)](https://solved.ac/erica0126/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhwa0904)](https://solved.ac/suhwa0904/)
 </div>
